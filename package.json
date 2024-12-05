@@ -45,7 +45,8 @@
     "react-top-loading-bar": "^2.1.0",
     "reactstrap": "^9.1.1",
     "slick-carousel": "^1.8.1",
-    "swiper": "^8.4.2"
+    "swiper": "^8.4.2",
+    "env-cmd": "^10.1.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.0",
